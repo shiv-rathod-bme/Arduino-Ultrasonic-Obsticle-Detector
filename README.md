@@ -40,7 +40,6 @@ The wiring is simple and follows the provided diagram. The sensor, buzzer, and L
 
 **Note:** For a more practical and discreet stick, **replace the LED with a vibrating motor (e.g., from an old phone)**. Connect it to pin `13` instead of the LED.
 
-![Wiring Diagram]([images/circuit_diagram.jpg](https://github.com/shiv-rathod-bme/Arduino-Ultrasonic-Obsticle-Detector/blob/403e3ae6f0783d01d4fac598c10dc99b03a9fc39/circuit_image.png))
 
 ## 🚀 Getting Started
 
