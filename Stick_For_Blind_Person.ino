@@ -1,5 +1,3 @@
-//viral science
-//Ultrasonic Distance alarm
 const int trigPin = 9;
 const int echoPin = 10;
 const int buzzer = 11;
@@ -50,4 +48,5 @@ else{
 Serial.print("Distance: ");
 Serial.println(distance);
 }
+
 
