@@ -67,4 +67,3 @@ The code operates in a simple loop:
 
 You can easily adjust the sensitivity by changing the `10` in the line `if (safetyDistance <= 10)` to a larger or smaller number.
 
-## 📁 Project Structure
